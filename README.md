@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything and everything
 - 📫 How to reach me ... iykyk
 - 😄 Pronouns: ... she/her/hers
-- ⚡ Fun fact: ... I've been to every 7-Eleven in Texas
+- ⚡ Fun fact: ... I've been to every 7-Eleven in Texas!
 
 <!---
 faye-wallis/faye-wallis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
