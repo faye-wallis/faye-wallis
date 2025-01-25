@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faye-wallis
 - 👀 I’m interested in ... deepening my knowledge of data analytics
-- 🌱 I’m currently learning ... Tableau
+- 🌱 I’m currently learning ... TensorFlow
 - 💞️ I’m looking to collaborate on ... anything and everything
 - 📫 How to reach me ... iykyk
 - 😄 Pronouns: ... she/her/hers
